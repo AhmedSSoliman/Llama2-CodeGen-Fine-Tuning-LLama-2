@@ -98,3 +98,11 @@ instruction = """
 """
 print(generate(instruction))
 ```
+
+
+[Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
+[License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
+[RDP Issues]:           https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Colab%20RDP?label=Issues
+[RDP Notebook]:         https://colab.research.google.com/drive/18sAFC7msV0gJ24wn5gl41nU0QRynfLqG?usp=sharing
+[Code Issues]:          https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Code%20Server?label=Issues
+[Code Notebook]:        https://colab.research.google.com/drive/18sAFC7msV0gJ24wn5gl41nU0QRynfLqG?usp=sharing
