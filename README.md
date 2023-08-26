@@ -4,7 +4,8 @@ This model is  [**LlaMa2-7b**](https://huggingface.co/meta-llama/Llama-2-7b) whi
 
 # Model Trained on Google Colab Pro Using AutoTrain, PEFT and QLoRA
 
-(https://colab.research.google.com/drive/18sAFC7msV0gJ24wn5gl41nU0QRynfLqG?usp=sharing)
+## [Implementation code](https://colab.research.google.com/drive/18sAFC7msV0gJ24wn5gl41nU0QRynfLqG?usp=sharing) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook]
+
 
 # You can load the LlaMa2-CodeGen model on google colab.
 
